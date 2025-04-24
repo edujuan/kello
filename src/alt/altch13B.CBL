@@ -1,8 +1,64 @@
-       IDENTIFICATION DIVISION.
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004       IDENTIFICATION DIVISION.
        PROGRAM-ID. ALTCH13B.
       *AUTORA: MARELI AMANCIO VOLPATO
       *DATA: 16/06/2004
-      *DESCRIÇÃO: ALTERA LAYOUT CHD013 -
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DATA: 16/06/2004
+      *DESCRIï¿½ï¿½O: ALTERA LAYOUT CHD013 -
       * INCLUI CAMPO DCR-MEM COM FIXO SPACES
        ENVIRONMENT DIVISION.
        SPECIAL-NAMES.
@@ -94,8 +150,8 @@
            05  GRAVA-W              PIC 9        VALUE ZEROS.
            05  ORDEM-W               PIC 9        VALUE ZEROS.
            05  ERRO-W                PIC 9        VALUE ZEROS.
-      *    ordem-w - flag que controla a ordem do relatorio - numérico
-      *    ou alfabético
+      *    ordem-w - flag que controla a ordem do relatorio - numï¿½rico
+      *    ou alfabï¿½tico
            05  HORA-W                PIC 9(8)     VALUE ZEROS.
            05  PAG-W                 PIC 9(2)     VALUE ZEROS.
            05  parametros-w          pic x(40)    value spaces.

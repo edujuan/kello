@@ -1,0 +1,25 @@
+{
+  "supportedFileExtensions": {
+    "COBOL": [
+      ".cbl",
+      ".cob",
+      ".ccp",
+      ".cobol",
+      ".cpy",
+      ".cpb",
+      ".cblcpy",
+      ".mf"
+    ],
+    "CSharp": [
+      ".cs"
+    ],
+    "Kotlin": [
+      ".kt",
+      ".kts"
+    ],
+    "TypeScript": [
+      ".ts",
+      ".tsx"
+    ]
+  }
+}
